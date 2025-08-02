@@ -1,4 +1,4 @@
-package com.svape.melist.ui.theme
+package com.svape.melist.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
