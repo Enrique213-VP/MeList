@@ -1,4 +1,4 @@
-package com.svape.melist.presentation.ui.theme
+package com.svape.melist.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

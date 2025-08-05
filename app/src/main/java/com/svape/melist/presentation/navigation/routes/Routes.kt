@@ -1,0 +1,23 @@
+package com.svape.melist.presentation.navigation.routes
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+object HomeRoute
+
+@Serializable
+data class SearchRoute(
+    val initialQuery: String = ""
+)
+
+@Serializable
+data class SearchResultsRoute(
+    val query: String
+)
+
+@Serializable
+data class ProductDetailRoute(
+    val productId: String,
+    val query: String,
+    val productJson: String
+)

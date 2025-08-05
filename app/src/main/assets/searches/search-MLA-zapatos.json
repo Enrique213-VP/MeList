@@ -1,0 +1,955 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": "zapatillas",
+  "paging": {
+    "total": 119805,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA1884722608",
+      "title": "Zapatillas Skater Oversize Negras",
+      "condition": "new",
+      "thumbnail_id": "987959-MLA78756940907_082024",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-1884722608-zapatillas-skater-oversize-negras-_JM",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA109027",
+      "domain_id": "MLA-SNEAKERS",
+      "variation_id": "181382154156",
+      "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 52377,
+      "original_price": 66300,
+      "sale_price": {
+        "price_id": "",
+        "amount": 52377,
+        "conditions": {
+          "eligible": true,
+          "context_restrictions": [
+            "channel_marketplace"
+          ],
+          "start_time": "2025-03-13T03:00:00Z",
+          "end_time": "2025-03-14T02:59:59Z"
+        },
+        "currency_id": "ARS",
+        "exchange_rate": null,
+        "payment_method_prices": [],
+        "payment_method_type": "TMP",
+        "regular_amount": 66300,
+        "type": "promotion",
+        "metadata": {
+          "promotion_offer_type": "DOD",
+          "promotion_offer_sub_type": "AUTOMATIC",
+          "promotion_id": "OFFER-MLA1884722608-10275376287",
+          "promotion_type": "deal_of_the_day"
+        }
+      },
+      "available_quantity": 50,
+      "official_store_id": 81634,
+      "official_store_name": "Ozono",
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "variation_filters": [
+        "COLOR"
+      ],
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "benefits": null,
+        "promise": null,
+        "shipping_score": -1
+      },
+      "stop_time": "2044-08-10T04:00:00.000Z",
+      "seller": {
+        "id": 265699968,
+        "nickname": "OZONO CALZADOS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Valentín Alsina"
+      },
+      "attributes": [
+        {
+          "id": "AGE_GROUP",
+          "name": "Edad",
+          "value_id": "6725189",
+          "value_name": "Adultos",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "6725189",
+              "name": "Adultos",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "list"
+        },
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "2786791",
+          "value_name": "Ozono",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2786791",
+              "name": "Ozono",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "string"
+        },
+        {
+          "id": "FILTRABLE_GENDER",
+          "name": "Género filtrables",
+          "value_id": null,
+          "value_name": "Mujer,Hombre",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "18549361",
+              "name": "Mujer",
+              "struct": null,
+              "source": 2579503448603610
+            },
+            {
+              "id": "18549360",
+              "name": "Hombre",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 7363830417619661,
+          "value_type": "list"
+        },
+        {
+          "id": "GENDER",
+          "name": "Género",
+          "value_id": "110461",
+          "value_name": "Sin género",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "110461",
+              "name": "Sin género",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "list"
+        },
+        {
+          "id": "IS_EMERGING_BRAND",
+          "name": "Es marca emergente",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "boolean"
+        },
+        {
+          "id": "IS_HIGHLIGHT_BRAND",
+          "name": "Es marca destacada",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "boolean"
+        },
+        {
+          "id": "IS_TOM_BRAND",
+          "name": "Es marca TOM",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "boolean"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "list"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "877",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "877",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "string"
+        }
+      ],
+      "variations_data": {
+        "181382154160": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "GADJ94987",
+          "user_product_id": "MLAU487942188",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154168": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "QMEA94918",
+          "user_product_id": "MLAU487942198",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154172": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "GFQR94653",
+          "user_product_id": "MLAU487933260",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154176": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "JIFQ94611",
+          "user_product_id": "MLAU485796453",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154158": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "XNUH94533",
+          "user_product_id": "MLAU487942184",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154156": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "BAPC95665",
+          "user_product_id": "MLAU487931540",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154162": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "SJFI94579",
+          "user_product_id": "MLAU485796433",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154164": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "FAOA93636",
+          "user_product_id": "MLAU487942194",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154166": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "SQMK94579",
+          "user_product_id": "MLAU487931560",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154170": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "RLJB93230",
+          "user_product_id": "MLAU487935204",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "181382154174": {
+          "thumbnail": "http://http2.mlstatic.com/D_987959-MLA78756940907_082024-O.jpg",
+          "ratio": "2.14",
+          "name": "Negro",
+          "pictures_qty": 5,
+          "price": 66300,
+          "inventory_id": "YMUL94006",
+          "user_product_id": "MLAU487933268",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52049",
+              "value_name": "Negro",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        }
+      },
+      "installments": {
+        "quantity": 6,
+        "amount": 11605.87,
+        "rate": 32.95,
+        "currency_id": "ARS",
+        "metadata": {
+          "meliplus_installments": false,
+          "additional_bank_interest": false
+        }
+      },
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotion_decorations": null,
+      "promotions": null,
+      "inventory_id": null,
+      "installments_motors": null,
+      "result_type": "item"
+    },
+    {
+      "id": "MLA1982406790",
+      "title": "Zapatilla 47 Street Original Sneakers",
+      "condition": "new",
+      "thumbnail_id": "940583-MLA81837450173_012025",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-1982406790-zapatilla-47-street-original-sneakers-_JM",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA109027",
+      "domain_id": "MLA-SNEAKERS",
+      "variation_id": "182575084482",
+      "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+      "currency_id": "ARS",
+      "order_backend": 8,
+      "price": 87999.2,
+      "original_price": 109999,
+      "sale_price": {
+        "price_id": "",
+        "amount": 87999.2,
+        "conditions": {
+          "eligible": true,
+          "context_restrictions": [
+            "channel_marketplace"
+          ],
+          "start_time": "2025-03-13T03:00:00Z",
+          "end_time": "2025-03-14T02:59:59Z"
+        },
+        "currency_id": "ARS",
+        "exchange_rate": null,
+        "payment_method_prices": [],
+        "payment_method_type": "TMP",
+        "regular_amount": 109999,
+        "type": "promotion",
+        "metadata": {
+          "promotion_id": "OFFER-MLA1982406790-10276019079",
+          "promotion_type": "deal_of_the_day",
+          "promotion_offer_type": "DOD",
+          "promotion_offer_sub_type": "AUTOMATIC"
+        }
+      },
+      "available_quantity": 100,
+      "official_store_id": null,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "variation_filters": [
+        "COLOR"
+      ],
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "xd_drop_off",
+        "mode": "me2",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "benefits": null,
+        "promise": null,
+        "shipping_score": -1
+      },
+      "stop_time": "2044-12-14T04:00:00.000Z",
+      "seller": {
+        "id": 328061032,
+        "nickname": "ABRAXAS BZ"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Valentin Alsina"
+      },
+      "attributes": [
+        {
+          "id": "AGE_GROUP",
+          "name": "Edad",
+          "value_id": "6725189",
+          "value_name": "Adultos",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "6725189",
+              "name": "Adultos",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "list"
+        },
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "498493",
+          "value_name": "47 Street",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "498493",
+              "name": "47 Street",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "string"
+        },
+        {
+          "id": "FILTRABLE_GENDER",
+          "name": "Género filtrables",
+          "value_id": "18549361",
+          "value_name": "Mujer",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "18549361",
+              "name": "Mujer",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "list"
+        },
+        {
+          "id": "GENDER",
+          "name": "Género",
+          "value_id": "339665",
+          "value_name": "Mujer",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "339665",
+              "name": "Mujer",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "list"
+        },
+        {
+          "id": "IS_EMERGING_BRAND",
+          "name": "Es marca emergente",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "boolean"
+        },
+        {
+          "id": "IS_HIGHLIGHT_BRAND",
+          "name": "Es marca destacada",
+          "value_id": "242085",
+          "value_name": "Sí",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242085",
+              "name": "Sí",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "boolean"
+        },
+        {
+          "id": "IS_TOM_BRAND",
+          "name": "Es marca TOM",
+          "value_id": "242085",
+          "value_name": "Sí",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242085",
+              "name": "Sí",
+              "struct": null,
+              "source": 2579503448603610
+            }
+          ],
+          "source": 2579503448603610,
+          "value_type": "boolean"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6402814585011704
+            }
+          ],
+          "source": 6402814585011704,
+          "value_type": "list"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Original Sneakers",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Original Sneakers",
+              "struct": null,
+              "source": 7571550481372610
+            }
+          ],
+          "source": 7571550481372610,
+          "value_type": "string"
+        }
+      ],
+      "variations_data": {
+        "182575084482": {
+          "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+          "ratio": "1.97",
+          "name": "Rosa",
+          "pictures_qty": 3,
+          "price": 109999,
+          "user_product_id": "MLAU2910513426",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "51994",
+              "value_name": "Rosa",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "182575084484": {
+          "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+          "ratio": "1.97",
+          "name": "Rosa",
+          "pictures_qty": 3,
+          "price": 109999,
+          "user_product_id": "MLAU2905408899",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "51994",
+              "value_name": "Rosa",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "182575084486": {
+          "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+          "ratio": "1.97",
+          "name": "Rosa",
+          "pictures_qty": 3,
+          "price": 109999,
+          "user_product_id": "MLAU2910513428",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "51994",
+              "value_name": "Rosa",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "182575084496": {
+          "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+          "ratio": "1.97",
+          "name": "Rosa",
+          "pictures_qty": 3,
+          "price": 109999,
+          "user_product_id": "MLAU2905408909",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "51994",
+              "value_name": "Rosa",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "182575084498": {
+          "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+          "ratio": "1.97",
+          "name": "Rosa",
+          "pictures_qty": 3,
+          "price": 109999,
+          "user_product_id": "MLAU2905406973",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "51994",
+              "value_name": "Rosa",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        },
+        "182575084514": {
+          "thumbnail": "http://http2.mlstatic.com/D_940583-MLA81837450173_012025-O.jpg",
+          "ratio": "1.97",
+          "name": "Rosa",
+          "pictures_qty": 3,
+          "price": 109999,
+          "user_product_id": "MLAU2905408917",
+          "attributes": [],
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "51994",
+              "value_name": "Rosa",
+              "value_struct": null,
+              "values": null
+            }
+          ]
+        }
+      },
+      "installments": {
+        "quantity": 6,
+        "amount": 16756.51,
+        "rate": 14.25,
+        "currency_id": "ARS",
+        "metadata": {
+          "meliplus_installments": false,
+          "additional_bank_interest": false
+        }
+      },
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotion_decorations": null,
+      "promotions": null,
+      "inventory_id": null,
+      "installments_motors": null,
+      "result_type": "item"
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA109027",
+          "name": "Zapatillas",
+          "path_from_root": [
+            {
+              "id": "MLA1430",
+              "name": "Ropa y Accesorios"
+            },
+            {
+              "id": "MLA109026",
+              "name": "Calzado"
+            },
+            {
+              "id": "MLA109027",
+              "name": "Zapatillas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos"
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo"
+        }
+      ]
+    }
+  ],
+  "available_filters": []
+}

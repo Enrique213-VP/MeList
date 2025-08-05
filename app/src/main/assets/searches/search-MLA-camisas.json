@@ -1,0 +1,360 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": "camisas",
+  "paging": {
+    "total": 11640,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA1385224303",
+      "title": "Camisas Elastizada Entalladas Slim Fit Hombre",
+      "condition": "new",
+      "thumbnail_id": "701170-MLA71367699072_082023",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-1385224303-camisas-elastizada-entalladas-slim-fit-hombre-_JM",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA417218",
+      "domain_id": "MLA-SHIRTS",
+      "variation_id": "179639366609",
+      "thumbnail": "http://http2.mlstatic.com/D_727435-MLA69547799075_052023-O.jpg",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 17954.05,
+      "original_price": 18899,
+      "available_quantity": 1,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "variation_filters": ["COLOR"],
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "tags": ["self_service_in"]
+      },
+      "seller": {
+        "id": 20587698,
+        "nickname": "ROGERSJEANS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Rogers"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "Camisa Entallada Elastizada"
+        },
+        {
+          "id": "GENDER",
+          "name": "Género",
+          "value_name": "Hombre"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 3978.32,
+        "rate": 32.95,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA2345678901",
+      "title": "Camisa Mujer Gasa Estampada Floral Manga Larga",
+      "condition": "new",
+      "thumbnail_id": "123456-MLA-CAMISA-MUJER",
+      "listing_type_id": "gold_pro",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-1612799637-top-de-gasa-con-estampado-floral-y-mangas-largas-con-cuello-_JM?searchVariation=184159568120#polycard_client=search-nordic&searchVariation=184159568120&position=1&search_layout=stack&type=item&tracking_id=2b63cebc-5660-409c-8b61-febe6e98a1e7",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA417218",
+      "domain_id": "MLA-SHIRTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_964041-MLB87274906075_072025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 2,
+      "price": 24500,
+      "original_price": 28900,
+      "available_quantity": 12,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "tags": ["fulfillment", "mandatory_free_shipping"]
+      },
+      "seller": {
+        "id": 234567890,
+        "nickname": "MODAFEMENINA"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Zara"
+        },
+        {
+          "id": "GENDER",
+          "name": "Género",
+          "value_name": "Mujer"
+        },
+        {
+          "id": "SHIRT_MATERIAL",
+          "name": "Material",
+          "value_name": "Gasa"
+        }
+      ],
+      "installments": {
+        "quantity": 9,
+        "amount": 2722.22,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA3456789012",
+      "title": "Camisa Jean Hombre Leñador Cuadros Bolsillos",
+      "condition": "new",
+      "thumbnail_id": null,
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-2794990654-camisa-azul-de-cuadros-amplia-tommy-jeans-_JM?searchVariation=186782039833#polycard_client=search-nordic&searchVariation=186782039833&position=1&search_layout=stack&type=item&tracking_id=6bd6d1de-5a7a-4cb0-89cb-fa1236a02164",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA417218",
+      "domain_id": "MLA-SHIRTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_882254-MCO86736953303_062025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 3,
+      "price": 19900,
+      "original_price": null,
+      "available_quantity": 25,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": ["mandatory_free_shipping"]
+      },
+      "seller": {
+        "id": 345678901,
+        "nickname": "DENIMSTORE"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Levi's"
+        },
+        {
+          "id": "SHIRT_MATERIAL",
+          "name": "Material",
+          "value_name": "Jean"
+        },
+        {
+          "id": "SLEEVE_TYPE",
+          "name": "Tipo de manga",
+          "value_name": "Larga"
+        }
+      ],
+      "installments": {
+        "quantity": 12,
+        "amount": 1658.33,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA4567890123",
+      "title": "Camisa Lino Premium Hombre Manga Corta Verano",
+      "condition": "new",
+      "thumbnail_id": "456789-MLA-LINO",
+      "listing_type_id": "gold_pro",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-1553079043-camisa-de-verano-de-algodon-y-lino-de-manga-corta-para-hombr-_JM?searchVariation=187160589699#polycard_client=search-nordic&searchVariation=187160589699&position=3&search_layout=stack&type=item&tracking_id=d99837e0-5da9-44f0-8af0-3464bd4c83ce",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA417218",
+      "domain_id": "MLA-SHIRTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_841489-CBT82965039303_032025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 4,
+      "price": 35900,
+      "original_price": 42000,
+      "available_quantity": 8,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "tags": ["self_service_in"]
+      },
+      "seller": {
+        "id": 456789012,
+        "nickname": "PREMIUMSTORE"
+      },
+      "address": {
+        "state_id": "AR-S",
+        "state_name": "Santa Fe"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Polo Ralph Lauren"
+        },
+        {
+          "id": "SHIRT_MATERIAL",
+          "name": "Material",
+          "value_name": "Lino"
+        },
+        {
+          "id": "SLEEVE_TYPE",
+          "name": "Tipo de manga",
+          "value_name": "Corta"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 5983.33,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA5678901234",
+      "title": "Camisa Formal Hombre Slim Fit Lisa Oficina",
+      "condition": "new",
+      "thumbnail_id": null,
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-2763570790-camisa-formal-textura-unicolor-semi-slim-fit-arturo-calle-_JM?searchVariation=182424271908#polycard_client=search-nordic&searchVariation=182424271908&position=3&search_layout=stack&type=item&tracking_id=2cfee408-b4e3-4452-b878-ceebd85fc2e7",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA417218",
+      "domain_id": "MLA-SHIRTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_933475-MCO85619765102_062025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 5,
+      "price": 22500,
+      "original_price": 25000,
+      "available_quantity": 30,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": []
+      },
+      "seller": {
+        "id": 567890123,
+        "nickname": "ELEGANCIAMASCULINA"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Calvin Klein"
+        },
+        {
+          "id": "SHIRT_COLLAR",
+          "name": "Cuello",
+          "value_name": "Cuello italiano"
+        },
+        {
+          "id": "OCCASIONS",
+          "name": "Ocasiones",
+          "value_name": "Oficina"
+        }
+      ],
+      "installments": {
+        "quantity": 3,
+        "amount": 7500,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA417218",
+          "name": "Camisas",
+          "path_from_root": [
+            {
+              "id": "MLA1430",
+              "name": "Ropa y Accesorios"
+            },
+            {
+              "id": "MLA417218",
+              "name": "Camisas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [],
+  "pdp_tracking": {
+    "group": false,
+    "product_info": []
+  },
+  "user_context": null,
+  "ranking_introspection": {}
+}

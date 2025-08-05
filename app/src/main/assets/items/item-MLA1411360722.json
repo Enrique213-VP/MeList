@@ -1,0 +1,142 @@
+{
+  "id": "MLA1411360722",
+  "site_id": "MLA",
+  "title": "Rejilla Ventilación Amarok 2.0 Cromada",
+  "seller_id": 57995397,
+  "category_id": "MLA4711",
+  "price": 45999,
+  "base_price": 45999,
+  "original_price": 52999,
+  "currency_id": "ARS",
+  "initial_quantity": 20,
+  "sale_terms": [],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.co/MCO-1535447779-rejilla-ventilacion-amarok-20-cromada-_JM#polycard_client=search-nordic&position=34&search_layout=stack&type=item&tracking_id=5432f568-58af-4a75-8070-a270ef298382&wid=MCO1535447779&sid=search",
+  "thumbnail_id": "805370-MLA43144907870_082020",
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_991479-MCO82150163877_012025-O.webp",
+  "pictures": [
+    {
+      "id": "805370-MLA43144907870_082020",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_991479-MCO82150163877_012025-O.webp",
+      "secure_url": "https://http2.mlstatic.com/D_NQ_NP_672512-MCO82150163875_012025-O.webp",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": "high"
+    },
+    {
+      "id": "805371-MLA43144907871_082020",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_672512-MCO82150163875_012025-O.webp",
+      "secure_url": "https://http2.mlstatic.com/D_NQ_NP_672512-MCO82150163875_012025-O.webp",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": "high"
+    },
+    {
+      "id": "805372-MLA43144907872_082020",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_956385-MCO82150163871_012025-O.webp",
+      "secure_url": "https://http2.mlstatic.com/D_NQ_NP_956385-MCO82150163871_012025-O.webp",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": "high"
+    }
+  ],
+  "accepts_mercadopago": true,
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": ["fulfillment", "mandatory_free_shipping"],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": true,
+    "logistic_type": "fulfillment",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "name": "Belgrano"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQkJFTDcyNTJa",
+        "name": "Belgrano"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 123456789
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "12179114",
+      "value_name": "Frasle",
+      "values": [
+        {
+          "id": "12179114",
+          "name": "Frasle"
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo"
+        }
+      ],
+      "value_type": "list"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Camioneta",
+      "values": [
+        {
+          "id": null,
+          "name": "Camioneta"
+        }
+      ],
+      "value_type": "string"
+    },
+    {
+      "id": "VEHICLE_BRAND",
+      "name": "Marca del vehículo",
+      "value_id": null,
+      "value_name": "Amarok",
+      "values": [
+        {
+          "id": null,
+          "name": "Amarok"
+        }
+      ],
+      "value_type": "string"
+    }
+  ]
+}

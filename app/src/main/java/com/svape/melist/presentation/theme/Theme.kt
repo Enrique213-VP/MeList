@@ -1,4 +1,4 @@
-package com.svape.melist.presentation.ui.theme
+package com.svape.melist.presentation.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -33,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MeListTheme(
+fun MercadoLibreAppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

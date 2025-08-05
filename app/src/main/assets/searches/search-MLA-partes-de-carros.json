@@ -1,0 +1,252 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": "partes de carros",
+  "paging": {
+    "total": 3678,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA1411360722",
+      "title": "Rejilla Ventilación Amarok 2.0 Cromada",
+      "condition": "new",
+      "thumbnail_id": "805370-MLA43144907870_082020",
+      "catalog_product_id": "MLA19936763",
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-1535447779-rejilla-ventilacion-amarok-20-cromada-_JM#polycard_client=search-nordic&position=34&search_layout=stack&type=item&tracking_id=5432f568-58af-4a75-8070-a270ef298382&wid=MCO1535447779&sid=search",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA4711",
+      "domain_id": "MLA-CAR_PARTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_991479-MCO82150163877_012025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 90988,
+      "original_price": 98900,
+      "available_quantity": 15,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "tags": ["fulfillment", "self_service_in"],
+        "benefits": null,
+        "promise": null,
+        "shipping_score": -1
+      },
+      "stop_time": "2043-05-01T04:00:00.000Z",
+      "seller": {
+        "id": 57995397,
+        "nickname": "AUTOPARTES_PREMIUM"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkJFTDcyNTJa",
+        "city_name": "Belgrano"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Frasle",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 1,
+          "value_type": "string"
+        }
+      ],
+      "installments": {
+        "quantity": 12,
+        "amount": 7582.2,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": true,
+      "variations_data": {
+        "1": {
+          "thumbnail": "http://http2.mlstatic.com/D_968956-MLA54964362032_042023-I.jpg",
+          "ratio": "1:1",
+          "name": "Vista frontal",
+          "pictures_qty": 3,
+          "price": 45999,
+          "user_product_id": "MLA1411360722-1",
+          "attributes": [],
+          "attribute_combinations": []
+        },
+        "2": {
+          "thumbnail": "http://http2.mlstatic.com/D_631008-MLA52090139268_102022-I.jpg",
+          "ratio": "1:1",
+          "name": "Vista lateral",
+          "pictures_qty": 3,
+          "price": 45999,
+          "user_product_id": "MLA1411360722-2",
+          "attributes": [],
+          "attribute_combinations": []
+        },
+        "3": {
+          "thumbnail": "http://http2.mlstatic.com/D_860576-MLA52676718444_122022-I.jpg",
+          "ratio": "1:1",
+          "name": "Detalle",
+          "pictures_qty": 3,
+          "price": 45999,
+          "user_product_id": "MLA1411360722-3",
+          "attributes": [],
+          "attribute_combinations": []
+        }
+      }
+    },
+    {
+      "id": "MLA1234567890",
+      "title": "Filtro De Aire K&N High Performance Ford Ranger 3.2 Diesel",
+      "condition": "new",
+      "thumbnail_id": "123456-MLA-FILTRO",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_pro",
+      "sanitized_title": "",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-2226326338-filtro-de-aire-kn-mazda-bt50-2018-ford-ranger-_JM#polycard_client=search-nordic&position=1&search_layout=stack&type=item&tracking_id=9a182937-5f04-455b-b25b-fe78c3246553&wid=MCO2226326338&sid=search",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA4711",
+      "domain_id": "MLA-CAR_PARTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_756411-MCO74732206203_022024-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 2,
+      "price": 89900,
+      "original_price": null,
+      "available_quantity": 8,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "tags": ["mandatory_free_shipping"]
+      },
+      "seller": {
+        "id": 123456789,
+        "nickname": "REPUESTOS_RACING"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "K&N"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 14983.33,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA9876543210",
+      "title": "Amortiguadores Monroe Reflex Delanteros Chevrolet Corsa Classic",
+      "condition": "new",
+      "thumbnail_id": null,
+      "listing_type_id": "gold_special",
+      "sanitized_title": "",
+      "permalink": "https://www.mercadolibre.com.co/kit-4-amortiguadores-monroe-chevrolet-corsa-active-del--tra/up/MCOU2427369495#polycard_client=search-nordic&searchVariation=MCOU2427369495&position=1&search_layout=stack&type=product&tracking_id=4783e288-9c5a-4fc8-9005-18fdb20e0ce8&wid=MCO448107346&sid=search",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA4711",
+      "domain_id": "MLA-CAR_PARTS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_726223-MCO31533117804_072019-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 3,
+      "price": 32500,
+      "original_price": 38000,
+      "available_quantity": 20,
+      "use_thumbnail_id": false,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": []
+      },
+      "seller": {
+        "id": 987654321,
+        "nickname": "TUNING_PARTS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Monroe"
+        }
+      ],
+      "installments": {
+        "quantity": 9,
+        "amount": 3611.11,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA1747",
+          "name": "Accesorios para Vehículos",
+          "path_from_root": [
+            {
+              "id": "MLA1743",
+              "name": "Autos, Motos y Otros"
+            },
+            {
+              "id": "MLA1747",
+              "name": "Accesorios para Vehículos"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [],
+  "pdp_tracking": {
+    "group": false,
+    "product_info": []
+  },
+  "user_context": null,
+  "ranking_introspection": {}
+}

@@ -1,0 +1,552 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": "iphone",
+  "paging": {
+    "total": 11421,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA1116621831",
+      "title": "Apple iPhone 13 (128 GB) - Azul",
+      "condition": "new",
+      "thumbnail_id": "619667-MLA47781882790_102021",
+      "listing_type_id": "gold_pro",
+      "permalink": "https://www.mercadolibre.com.ar/apple-iphone-13-128gb-azul/p/MLA1116621831",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "http://http2.mlstatic.com/D_619667-MLA47781882790_102021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 1874999,
+      "original_price": 2083333,
+      "available_quantity": 3,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "tags": ["self_service_in", "mandatory_free_shipping"]
+      },
+      "seller": {
+        "id": 169311474,
+        "nickname": "IPOINT"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone 13"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Azul"
+        }
+      ],
+      "installments": {
+        "quantity": 9,
+        "amount": 208333.22,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": true
+    },
+    {
+      "id": "MLA2227745123",
+      "title": "iPhone 14 Pro Max 256GB - Negro Espacial",
+      "condition": "new",
+      "thumbnail_id": "MLA-i14pm",
+      "listing_type_id": "gold_special",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-2966151312-apple-iphone-14-pro-max-256-gb-negro-espacial-_JM?searchVariation=189153057369#polycard_client=search-nordic&searchVariation=189153057369&position=6&search_layout=stack&type=item&tracking_id=8f4ed025-ca53-4476-a06a-155e14f79cd4",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_708980-MCO89057194631_072025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 2,
+      "price": 2899999,
+      "original_price": 3199999,
+      "available_quantity": 5,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "tags": ["fulfillment"]
+      },
+      "seller": {
+        "id": 987654321,
+        "nickname": "TOPGADGETS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone 14 Pro Max"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Negro Espacial"
+        }
+      ],
+      "installments": {
+        "quantity": 12,
+        "amount": 241666.58,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": true
+    },
+    {
+      "id": "MLA3338889991",
+      "title": "iPhone 12 64GB - Blanco",
+      "condition": "used",
+      "thumbnail_id": null,
+      "listing_type_id": "gold_special",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-589145305-apple-iphone-12-mini-a2176-6gb-64gb-_JM?searchVariation=66009861235#polycard_client=search-nordic&searchVariation=66009861235&position=21&search_layout=stack&type=item&tracking_id=73da37fb-2360-4b68-a43d-e434da349ad5",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_901333-MCO43763937017_102020-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 3,
+      "price": 989999,
+      "original_price": null,
+      "available_quantity": 1,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": []
+      },
+      "seller": {
+        "id": 567890123,
+        "nickname": "USADOSVIP"
+      },
+      "address": {
+        "state_id": "AR-S",
+        "state_name": "Santa Fe"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone 12"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Blanco"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 165000,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA4445556667",
+      "title": "Apple iPhone 15 Pro 1TB Titanio Natural",
+      "condition": "new",
+      "thumbnail_id": "MLA15PROTITAN",
+      "listing_type_id": "gold_pro",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-1936686818-apple-iphone-15-pro-max-a3106-8gb-1tb-1-nano-sim-1-esim-_JM?searchVariation=180082188543#polycard_client=search-nordic&searchVariation=180082188543&position=2&search_layout=stack&type=item&tracking_id=cf88f391-ee62-4e0c-8876-5dd53ba48820",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_987174-MCO71984214373_092023-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 4,
+      "price": 4599999,
+      "original_price": 4799999,
+      "available_quantity": 2,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "tags": ["self_service_in"]
+      },
+      "seller": {
+        "id": 192837465,
+        "nickname": "MACSTOREOFICIAL"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone 15 Pro"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Titanio Natural"
+        }
+      ],
+      "installments": {
+        "quantity": 12,
+        "amount": 383333.25,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": true
+    },
+    {
+      "id": "MLA5559991110",
+      "title": "iPhone SE (3ra Gen) 64GB - Rojo",
+      "condition": "new",
+      "thumbnail_id": null,
+      "listing_type_id": "gold_special",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-2867704566-apple-iphone-se-2da-gen-64gb-red-incluye-audifonos-_JM?searchVariation=187926012261#polycard_client=search-nordic&searchVariation=187926012261&position=2&search_layout=stack&type=item&tracking_id=37f8f12e-58c0-438f-8b35-9ca1395ea34c",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_929142-MLA84355172486_052025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 5,
+      "price": 699999,
+      "original_price": 759999,
+      "available_quantity": 10,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": []
+      },
+      "seller": {
+        "id": 246813579,
+        "nickname": "SMARTSHOPARG"
+      },
+      "address": {
+        "state_id": "AR-M",
+        "state_name": "Mendoza"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone SE (3ra Gen)"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Rojo"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 116666.5,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA6667778888",
+      "title": "iPhone XR 128GB - Coral",
+      "condition": "used",
+      "thumbnail_id": "MLA-XR-CORAL",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.co/iphone-xr-128-gb-coral-excelente-reacondicionado/p/MCO2000027811#polycard_client=search-nordic&searchVariation=MCO2000027811&position=1&search_layout=stack&type=product&tracking_id=22690663-adfa-47b8-b409-85e516839102&wid=MCO2811059594&sid=search",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_948418-MLA46597444561_072021-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 6,
+      "price": 539999,
+      "original_price": null,
+      "available_quantity": 2,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": []
+      },
+      "seller": {
+        "id": 111223344,
+        "nickname": "TECHUSED"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone XR"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Coral"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 89999.83,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA7778889990",
+      "title": "iPhone 11 Pro 256GB - Verde Medianoche",
+      "condition": "used",
+      "thumbnail_id": "MLA-11PRO",
+      "listing_type_id": "gold_pro",
+      "permalink": "https://www.mercadolibre.com.co/iphone-11-pro-max-256-gb-verde-medianoche-excelente-reacondicionado/p/MCO2000132172#polycard_client=search-nordic&searchVariation=MCO2000132172&position=1&search_layout=stack&type=product&tracking_id=ac81340b-b86e-49c3-9fa1-82f36703a677&wid=MCO1626081935&sid=search",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_848296-MLA44294712159_122020-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 7,
+      "price": 759999,
+      "original_price": 799999,
+      "available_quantity": 1,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "default",
+        "mode": "me2",
+        "tags": ["mandatory_free_shipping"]
+      },
+      "seller": {
+        "id": 334455667,
+        "nickname": "RENEWGADGETS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone 11 Pro"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Verde Medianoche"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 126666.5,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": false
+    },
+    {
+      "id": "MLA8889990001",
+      "title": "iPhone 13 Mini 128GB - Rosa",
+      "condition": "new",
+      "thumbnail_id": "MLA13MINI",
+      "listing_type_id": "gold_special",
+      "permalink": "https://articulo.mercadolibre.com.co/MCO-2912410482-apple-iphone-13-mini-128-gb-rosa-_JM?searchVariation=183974057098#polycard_client=search-nordic&searchVariation=183974057098&position=24&search_layout=stack&type=item&tracking_id=e3e5893e-fd50-49d3-b25c-4cdab0eb63d1",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_924878-MCO86173486160_062025-O.webp",
+      "currency_id": "ARS",
+      "order_backend": 8,
+      "price": 1599999,
+      "original_price": 1699999,
+      "available_quantity": 7,
+      "accepts_mercadopago": true,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "tags": []
+      },
+      "seller": {
+        "id": 998877665,
+        "nickname": "IPHONESTOREARG"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Apple"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "iPhone 13 Mini"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_name": "Rosa"
+        }
+      ],
+      "installments": {
+        "quantity": 9,
+        "amount": 177777.66,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "catalog_listing": true
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA1055",
+          "name": "Celulares y Smartphones",
+          "path_from_root": [
+            {
+              "id": "MLA1051",
+              "name": "Celulares y Teléfonos"
+            },
+            {
+              "id": "MLA1055",
+              "name": "Celulares y Smartphones"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA1055",
+          "name": "Celulares y Smartphones",
+          "path_from_root": [
+            {
+              "id": "MLA1051",
+              "name": "Celulares y Teléfonos"
+            },
+            {
+              "id": "MLA1055",
+              "name": "Celulares y Smartphones"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": []
+}

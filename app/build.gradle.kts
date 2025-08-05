@@ -2,9 +2,9 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
-    id("kotlin-kapt")
-    id("com.google.dagger.hilt.android")
-    id("kotlin-parcelize")
+    alias(libs.plugins.hilt.android.gradle)
+    alias(libs.plugins.ksp)
+    alias(libs.plugins.kotlin.serialization)
 }
 
 android {
@@ -77,12 +77,11 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended:1.5.4")
 
     // Navigation
-    implementation("androidx.navigation:navigation-compose:2.7.7")
-    implementation("androidx.hilt:hilt-navigation-compose:1.1.0")
+    implementation(libs.androidx.navigation.compose)
 
     // Lifecycle
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
-    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.androidx.lifecycle.runtime.compose)
 
     // Networking
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
@@ -94,14 +93,28 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.5.0")
 
     // Dependency Injection
-    implementation("com.google.dagger:hilt-android:2.50")
-    kapt("com.google.dagger:hilt-compiler:2.50")
+    implementation(libs.hilt.android)
+    implementation(libs.androidx.hilt.navigation.compose)
+    implementation(libs.play.services.analytics.impl)
+    ksp(libs.hilt.compiler)
+
+    // Serialization
+    implementation(libs.kotlinx.serialization.json)
+
+
+    // Image loading
+    implementation(libs.coil.compose)
 
     // Logging
     implementation("com.jakewharton.timber:timber:5.0.1")
 
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+
+    // Room
+    implementation(libs.androidx.room.runtime)
+    implementation(libs.androidx.room.ktx)
+    ksp(libs.androidx.room.compiler)
 
     // Testing
     testImplementation(libs.junit)
@@ -117,9 +130,4 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
     debugImplementation("com.squareup.leakcanary:leakcanary-android:2.13")
-}
-
-// Allow references to generated code
-kapt {
-    correctErrorTypes = true
 }
